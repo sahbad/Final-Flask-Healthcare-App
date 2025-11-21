@@ -107,6 +107,10 @@ Final-Flask-Healthcare-App/
 └── README.md             # Project documentation
 ```
 
+Note: A single compressed archive containing larger deliverables (ZIP) is hosted on Google Drive for distribution. Download it here:
+
+[Large deliverables archive (ZIP) — Google Drive](https://drive.google.com/file/d/1m2i2N1RJiMRhoGCNMGCu9c8Gf8aW6pIg/view?usp=sharing)
+
 ---
 
 # 🖥 Local Installation & Setup
