@@ -15,7 +15,7 @@ Thumbs.db
 # Config / secrets (optional)
 config.py
 .env
-sb-server-key.PEM
+sb-server-key.pem
 # Editor / IDE
 .vscode/
 
