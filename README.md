@@ -79,6 +79,7 @@ Final-Flask-Healthcare-App/
 │
 ├── app.py                # Main Flask application
 ├── config.py             # MongoDB connection config (DO NOT commit secrets)
+├── sample-config.py      # Example config with placeholder `MONGO_URI` (safe to commit)
 ├── models.py             # User class for CSV transformation
 ├── export_to_csv.py      # Script to export MongoDB data to CSV
 ├── requirements.txt      # Project dependencies
@@ -95,6 +96,13 @@ Final-Flask-Healthcare-App/
 │
 ├── static/
 │   └── style.css         # Optional CSS
+│
+├── misc/                 # Appendix and screenshots (deployment + DB screenshots)
+│   └── screenshots/
+│
+├── output/               # Stakeholder deliverables exported from analysis
+│   ├── analysis.pdf      # PDF export of `notebooks/analysis.ipynb`
+│   └── visualizations.pptx # PowerPoint with exported charts
 │
 └── README.md             # Project documentation
 ```
@@ -141,6 +149,8 @@ MONGO_URI = "your-mongodb-atlas-uri-here"
 ```
 
 ⚠️ **Do not commit your real MongoDB URI.**
+
+You can copy `sample-config.py` to `config.py` and update the `MONGO_URI` value with your Atlas credentials. `sample-config.py` contains a placeholder URI and is safe to commit; keep `config.py` out of version control.
 
 ---
 
@@ -362,4 +372,4 @@ This section ensures all project requirements have been met.
 
 ---
 
-📌 **END OF README**\
+📌 **END OF README**

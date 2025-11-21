@@ -15,3 +15,21 @@ Thumbs.db
 # Config / secrets (optional)
 config.py
 .env
+sb-server-key.PEM
+# Editor / IDE
+.vscode/
+
+# Testing / coverage
+.pytest_cache/
+coverage/
+
+# Packaging/build
+pip-wheel-metadata/
+*.egg-info/
+
+# Logs
+*.log
+
+# Virtual environments (alternative names)
+env/
+.venv/
