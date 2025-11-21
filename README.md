@@ -333,6 +333,10 @@ http://<ec2-public-dns>/
 * Clean your `.pem` permissions locally.
 * Use environment variables if extending the project.
 
+Note on private keys and grading:
+
+- Private keys (for example `sb-server-key.pem`) are intentionally excluded from this repository and have been removed from remote history. If you need the private key for grading, download the deliverables ZIP from the Google Drive archive linked in the Project Structure section (shared with graders). Do NOT commit private keys back into the repository.
+
 ---
 
 # ✅ Checklist
