@@ -335,7 +335,7 @@ http://<ec2-public-dns>/
 
 Note on private keys:
 
-- Private keys (for example `sb-server-key.pem`) are intentionally excluded from this repository and have been removed from remote history. If you need the private key for grading(if required), download the deliverables ZIP from the Google Drive archive linked in the Project Structure section (shared above). Do NOT commit private keys back into the repository.
+- Private keys (for example `sb-server-key.pem`) are intentionally excluded from this repository and have been removed from remote history. If you need the private key for grading, download the deliverables ZIP from the Google Drive archive linked in the Project Structure section above. Do NOT commit private keys back into the repository.
 
 ---
 
