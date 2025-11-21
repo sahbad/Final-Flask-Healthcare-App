@@ -1,3 +1,9 @@
 age,gender,total_income,utilities_amount,entertainment_amount,school_fees_amount,shopping_amount,healthcare_amount
 ,,,0,0,0,0,0
 38,Male,50000.0,1500.0,500.0,500.0,1000.0,500.0
+37,Male,1200.0,200.0,50.0,200.0,100.0,50.0
+30,Female,10000.0,800.0,100.0,100.0,500.0,100.0
+55,Male,15000.0,3000.0,500.0,1000.0,3000.0,1000.0
+65,Female,7500.0,1500.0,300.0,0.0,2000.0,1000.0
+24,Male,2000.0,500.0,250.0,200.0,200.0,50.0
+18,Prefer not to say,600.0,200.0,100.0,100.0,75.0,25.0
